@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .v1{
+                position: fixed;
+                right: 0;
+                bottom: 0;
+                min-width: 100%;
+                min-height: 100%;
+                width: auto;
+                height: auto;
+                z-index: -999;
+            }
+        </style>
+    </head>
+    <body>
+        <hr>
+        <div style="background-color: rgb(75, 65, 141);text-align: center;color: white;padding: 10px;font-size: 20px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Home &nbsp; &nbsp; &nbsp; &nbsp; <a style="color: white;background-color:rgb(75, 65, 141) ;text-decoration: none;" href="Dandeli2.html"> About Us</a> &nbsp; &nbsp; &nbsp; &nbsp; <a style="background-color: rgb(75, 65, 141) ;color: white;text-decoration: none;" href="Dandeli3.html">Our Stays</a>  &nbsp; &nbsp; &nbsp; &nbsp; <a style="background-color: rgb(75, 65, 141) ;color: white;text-decoration: none;" href="Dandeli4.html">Things to Do</a> &nbsp; &nbsp; &nbsp; &nbsp;<a style="background-color:rgb(75, 65, 141);color: white;text-decoration: none;" href="Dandeli5.html">Sight Seeing</a> &nbsp; &nbsp; &nbsp; &nbsp;<a style="background-color:rgb(75, 65, 141) ;color: white;text-decoration: none;" href="Dandeli6.html">Packages</a> &nbsp; &nbsp; &nbsp; &nbsp;<a style="background-color: rgb(75, 65, 141);color: white;text-decoration: none;" href="Dandeli7.html">Contact</a></div><hr>
+        <img style="width: 30%;padding-left: 34%;padding-top: 5%;" src="https://res.cloudinary.com/tripbae/images/f_auto,q_auto/v1702843297/Dandeli-tourist-places-dandeli-resorts-Dandeli-distance-Things-to-do-in-dandeli-Dandeli-rafting-dandeli-trip-dandeli-packages-dandeli-resorts-with-swimming-pool-dandeli-resorts-price-list/Dandeli-tourist-places-dandeli-resorts-Dandeli-distance-Things-to-do-in-dandeli-Dandeli-rafting-dandeli-trip-dandeli-packages-dandeli-resorts-with-swimming-pool-dandeli-resorts-price-list.webp?_i=AA">
+        <h1 style="text-align: center;font-size: 50px;color: white;">Your Dream Stay at Dandeli Resorts</h1>
+        <h4 style="text-align: center;font-size: 15px;color: white;font-family:monospace;">PLAN YOUR PERFECT DANDELI TRIP WITH BEST DANDELI TOUR PACKAGES STARTING AT JUST 1300/-</h4>
+        <button style="border-radius: 5px;background-color: yellow;width: 10%;height: 30px;margin-left: 25%;border-width: 0;"><a style="background-color: yellow;color: black;" href="Dandeli7.html">Contact Us</a></button>
+        <br><br><br><br>
+        <h1 style="text-align: left;font-size: 50px;color: white;font-family:Verdana, Geneva, Tahoma, sans-serif;">Activities in Dandeli</h1>
+        <h5  style="text-align: left;font-size: 20px;color: rgba(255, 255, 255, 0.515);font-family:monospace;">Dandeli offers an amazing time for groups who wish <br>to travel with their friends and family due to the<br> variety of so many tourist attractions</h5>
+        <table>
+            <tr>
+                <th><img  style="width: 60%;padding-left:0%;padding-top: 0;" src="https://www.holidify.com/images/bgImages/DANDELI.jpg"><br><h4 style="color: white;font-size: 20px;padding-left: 2%;font-family:cursive;">River Rafting</h4></th>
+                <th> <img  style="width: 90%;padding-right:20%;padding-top: 0;" src="https://i0.wp.com/dandelitourpackage.com/wp-content/uploads/2020/12/Zorbing-580x400.jpg"><br><h4 style="color: white;font-size: 20px;padding-left: 2%;font-family:cursive;">Zorbing</h4></th>
+                <th> <img  style="width: 90%;padding-left:2%;padding-top: 0;" src="https://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2017/11/OG28.jpg"><br><h4 style="color: white;font-size: 20px;padding-left: 2%;font-family:cursive;">Jungle Safari</h4></th>
+            </tr>
+            <tr>
+                <th><img  style="width: 50%;padding-left:0%;padding-top: 0;" src="https://dandeliwildadventure.com/wp-content/uploads/2019/07/coracle-ride-in-dandeli-1.jpg"><br><h4 style="color: white;font-size: 20px;padding-left: 2%;font-family:cursive;">Coracle Ride</h4></th>
+                <th> <img  style="width: 90%;padding-right:20%;padding-top: 0;" src="https://www.inditales.com/wp-content/uploads/2014/03/kayaking-watersports-kali-river-dandeli.jpg"><br><h4 style="color: white;font-size: 20px;padding-left: 2%;font-family:cursive;">River Boating</h4></th>
+                <th> <img  style="width: 80%;padding-left:2%;padding-top: 0;" src="https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/2/2016/06/Adventuresportscanyoning-i.jpg"><br><h4 style="color: white;font-size: 20px;padding-left: 2%;font-family:cursive;">Canyoning</h4></th>
+            </tr>
+            
+        </table>
+        <video autoplay loop muted class="v1">
+            <source src="Dandeli1.mp4" type="video/mp4"> 
+
+        </video>
+    </body>
+</html>
